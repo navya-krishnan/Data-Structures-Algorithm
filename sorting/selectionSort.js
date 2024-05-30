@@ -11,5 +11,5 @@ function selectionSort(arr) {
     return arr
 }
 
-const arr = [34, 89, 10, -78, 0, 39]
+const arr = [34, 89, 10, -65, 0, 39]
 console.log(selectionSort(arr));
